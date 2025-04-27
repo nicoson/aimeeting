@@ -56,6 +56,9 @@
 .paragraph {
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .table_cell {
 }
 .form_hint {
@@ -64,6 +67,8 @@
 .form_disabled {
 }
 .flow_shape {
+}
+.table {
 }
 .connector {
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
@@ -111,6 +116,8 @@
 }
 .image1 {
   color:#000000;
+}
+.placeholder {
 }
 .horizontal_line {
 }
@@ -179,6 +186,9 @@
 .ellipse1 {
 }
 .sticky_1 {
+  text-align:left;
+}
+.sticky_4 {
   text-align:left;
 }
 textarea, select, input, button { outline: none; }
