@@ -56,6 +56,13 @@
 .paragraph {
   text-align:left;
 }
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 .checkbox {
   text-align:left;
 }
